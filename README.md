@@ -2,18 +2,12 @@
 Cohort 14 git flow repo
 
 
+- gina
 caity
-
-
-
-
 - Mark Ota
-
-
 Chaz
-# Naoto Yamaguchi
 
-- jon borgonia
+
 
 
 
