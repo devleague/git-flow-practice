@@ -14,5 +14,9 @@ Chaz
 # Naoto Yamaguchi
 
 - jon borgonia
+- Jonathon L@ylo
+
+# I LOVE PIE
+
 - Edward Gao
 - Jonathon Laylo
