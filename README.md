@@ -1,18 +1,11 @@
 # git-flow-practice
 Cohort 14 git flow repo
 
-
+- jon borgonia
+- gina
 caity
-
-
-
-
 - Mark Ota
-
-
 Chaz
-# Naoto Yamaguchi
-
 - jon borgonia
 - Jonathon L@ylo
 
