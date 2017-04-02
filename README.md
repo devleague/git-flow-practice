@@ -3,3 +3,5 @@ Cohort 14 git flow repo
 
 - jon borgonia
 - gina
+
+# Naoto Yamaguchi
