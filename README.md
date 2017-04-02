@@ -3,6 +3,6 @@ Cohort 14 git flow repo
 
 - jon borgonia
 - andrea takamiya
--joshua lee
+-Joshua Lee
 Naoto Yamaguchi
 - Jonathon Laylo
