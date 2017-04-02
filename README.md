@@ -8,3 +8,4 @@ Chaz
 - jon borgonia
 - Edward Gao
 - Jonathon Laylo
+- Nakaz
