@@ -1,4 +1,10 @@
 # git-flow-practice
 Cohort 14 git flow repo
 
-  - Mark Ota
+
+- Mark Ota
+
+- jon borgonia
+- Jonathon Laylo
+
+
