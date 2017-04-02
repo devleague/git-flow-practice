@@ -1,8 +1,8 @@
 # git-flow-practice
-Cohort 14 git flow repo
+Cohort 14 git flew repo
 
 - jon borgonia
-- gina
+- gin@
 caity
 - Mark Ota
 Chaz
@@ -11,5 +11,5 @@ Chaz
 
 # I LOVE PIE
 
-- Edward Gao
+- Edward G@o
 - Jonathon Laylo
