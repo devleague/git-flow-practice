@@ -3,5 +3,9 @@ Cohort 14 git flow repo
 
 - jon borgonia
 - gina
-
-# Naoto Yamaguchi
+caity
+- Mark Ota
+Chaz
+- jon borgonia
+- Edward Gao
+- Jonathon Laylo
