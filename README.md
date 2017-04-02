@@ -2,5 +2,7 @@
 Cohort 14 git flow repo
 
 - jon borgonia
-- Jonathon Laylo
+- Jonathon L@ylo
+
+# I LOVE PIE
 
